@@ -160,4 +160,4 @@ If using VS Code:
 
 **Related Repository:** [webhook-repo](https://github.com/dumnevijay/webhook-repo) - The webhook receiver and dashboard
 
-This is to check the push event.
+This is to check the pull request event.
